@@ -15,7 +15,7 @@
         'views/snippets.xml',
     ],
     'demo': [],
-    'price': 32.00,
+    'price': 37.81,
     'currency': 'EUR',
     'support': 'business@axistechnolabs.com',
     'author': 'Axis Technolabs',
